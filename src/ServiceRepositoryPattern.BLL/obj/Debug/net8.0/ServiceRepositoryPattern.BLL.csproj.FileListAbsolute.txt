@@ -1,0 +1,11 @@
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\bin\Debug\net8.0\ServiceRepositoryPattern.BLL.deps.json
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\bin\Debug\net8.0\ServiceRepositoryPattern.BLL.dll
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\bin\Debug\net8.0\ServiceRepositoryPattern.BLL.pdb
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\obj\Debug\net8.0\ServiceRepositoryPattern.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\obj\Debug\net8.0\ServiceRepositoryPattern.BLL.AssemblyInfoInputs.cache
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\obj\Debug\net8.0\ServiceRepositoryPattern.BLL.AssemblyInfo.cs
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\obj\Debug\net8.0\ServiceRepositoryPattern.BLL.csproj.CoreCompileInputs.cache
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\obj\Debug\net8.0\ServiceRepositoryPattern.BLL.dll
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\obj\Debug\net8.0\refint\ServiceRepositoryPattern.BLL.dll
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\obj\Debug\net8.0\ServiceRepositoryPattern.BLL.pdb
+E:\DotneCore\ServiceRepositoryPattern\src\ServiceRepositoryPattern.BLL\obj\Debug\net8.0\ref\ServiceRepositoryPattern.BLL.dll
